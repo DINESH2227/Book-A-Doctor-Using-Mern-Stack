@@ -9,4 +9,5 @@
 2. Project Overview
 3. Features
 4. Technologies Used
-  
+# Introduction
+Book a Doctor is a full-stack application developed with the MERN stack (MongoDB, Express.js, React.js, Node.js) that enables patients to search for and book appointments with doctors seamlessly. With a responsive interface, real-time booking, and secure data management, this platform simplifies the process of connecting patients with healthcare providers.
